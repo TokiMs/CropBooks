@@ -1,0 +1,15 @@
+[whole]
+  x: 0
+  y: 0
+  width: 1920
+  height: 2400
+[view]
+  x: 50
+  y: 0
+  width: 1820
+  height: 2400
+[image]
+  x: 116
+  y: 0
+  width: 1687
+  height: 2400
